@@ -10,19 +10,19 @@ The datasets produced will be published as open source. All the sw code produced
 
 # List of benchmarks
 
-LEXam: Benchmarking Legal Reasoning on 340 Law Exams (https://lexam-benchmark.github.io/)  
+**LEXam**: Benchmarking Legal Reasoning on 340 Law Exams (https://lexam-benchmark.github.io/)  
 (Fan et al. 2025)
 
-Lextreme (https://arxiv.org/abs/2301.13126, https://huggingface.co/datasets/joelniklaus/lextreme)
+**Lextreme** (https://arxiv.org/abs/2301.13126, https://huggingface.co/datasets/joelniklaus/lextreme)
 A Multi-Lingual and Multi-Task Benchmark for the Legal Domain. It was the first multilingual legal benchmark (2023). The dataset supports the tasks of text classification and token classification (Judgment Prediction, Topic Classification, NER, etc ). As stated by the authors, LEXTREME leaves ample room for improvement. 
 
-LawBench (https://lawbench.opencompass.org.cn/home, https://github.com/open-compass/LawBench/) has been developed by chinese ML researchers (Fei et al. 2023). They propose a benchmark to evaluate the extent of legal knowledge LLMs possess and whether they can reliably perform legal-related tasks. This benchmark is focused on Chinese laws and chinese oriented LLMs; e.g., they used the JEC-QA dataset collected from the National Judicial Examination of China, and the contents of laws and regulations from the national database ( https://flk.npc.gov.cn/ ).
+**LawBench** (https://lawbench.opencompass.org.cn/home, https://github.com/open-compass/LawBench/) has been developed by chinese ML researchers (Fei et al. 2023). They propose a benchmark to evaluate the extent of legal knowledge LLMs possess and whether they can reliably perform legal-related tasks. This benchmark is focused on Chinese laws and chinese oriented LLMs; e.g., they used the JEC-QA dataset collected from the National Judicial Examination of China, and the contents of laws and regulations from the national database ( https://flk.npc.gov.cn/ ).
 
-LegalBench (https://hazyresearch.stanford.edu/legalbench/) is an ongoing open science effort lead by Stanford University to collaboratively curate tasks for evaluating legal reasoning in LLMs (Guha et al. 2024). All LegalBench tasks are in English and focused on common law.
+**LegalBench** (https://hazyresearch.stanford.edu/legalbench/) is an ongoing open science effort lead by Stanford University to collaboratively curate tasks for evaluating legal reasoning in LLMs (Guha et al. 2024). All LegalBench tasks are in English and focused on common law.
 
-ArabLegalEval is a multitask benchmark dataset for assessing the Arabic legal knowledge of LLMs. Inspired by the MMLU and LegalBench datasets, ArabLegalEval consists of multiple tasks sourced from Saudi legal documents and synthesized questions.
+**ArabLegalEval** is a multitask benchmark dataset for assessing the Arabic legal knowledge of LLMs. Inspired by the MMLU and LegalBench datasets, ArabLegalEval consists of multiple tasks sourced from Saudi legal documents and synthesized questions.
 
-IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning (2024) contains monolingual (English, Hindi) and multi-lingual (9 Indian languages) domain-specific tasks that address different aspects of the legal system from the point of view of understanding and reasoning over Indian legal documents.
+**IL-TUR**: Benchmark for Indian Legal Text Understanding and Reasoning (2024) contains monolingual (English, Hindi) and multi-lingual (9 Indian languages) domain-specific tasks that address different aspects of the legal system from the point of view of understanding and reasoning over Indian legal documents.
 (Hijazi et al. 2024)
 
 
