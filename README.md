@@ -21,9 +21,10 @@ A Multi-Lingual and Multi-Task Benchmark for the Legal Domain. It was the first 
 **LegalBench** (https://hazyresearch.stanford.edu/legalbench/) is an ongoing open science effort lead by Stanford University to collaboratively curate tasks for evaluating legal reasoning in LLMs (Guha et al. 2024). All LegalBench tasks are in English and focused on common law.
 
 **ArabLegalEval** is a multitask benchmark dataset for assessing the Arabic legal knowledge of LLMs. Inspired by the MMLU and LegalBench datasets, ArabLegalEval consists of multiple tasks sourced from Saudi legal documents and synthesized questions.
+(Hijazi et al. 2024)
 
 **IL-TUR**: Benchmark for Indian Legal Text Understanding and Reasoning (2024) contains monolingual (English, Hindi) and multi-lingual (9 Indian languages) domain-specific tasks that address different aspects of the legal system from the point of view of understanding and reasoning over Indian legal documents.
-(Hijazi et al. 2024)
+(Joshi et. al. 2024)
 
 
 
@@ -47,7 +48,7 @@ A Multi-Lingual and Multi-Task Benchmark for the Legal Domain. It was the first 
 
 (Hijazi et al. 2024) Hijazi, Faris, Somayah AlHarbi, Abdulaziz AlHussein, Harethah Abu Shairah, Reem AlZahrani, Hebah AlShamlan, Omar Knio, and George Turkiyyah. "ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models." arXiv preprint arXiv:2408.07983 (2024).
 
-Joshi, Abhinav, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, and Ashutosh Modi. "IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning." arXiv preprint arXiv:2407.05399 (2024).
+(Joshi et. al. 2024) Joshi, Abhinav, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, and Ashutosh Modi. "IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning." arXiv preprint arXiv:2407.05399 (2024).
 
 (Lai et al. 2023) Lai, Jinqi, Wensheng Gan, Jiayang Wu, Zhenlian Qi, and Philip S. Yu. "Large language models in law: A survey." arXiv preprint arXiv:2312.03718 (2023).
 
