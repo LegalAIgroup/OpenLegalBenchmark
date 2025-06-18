@@ -20,10 +20,10 @@ A Multi-Lingual and Multi-Task Benchmark for the Legal Domain. It was the first 
 
 **LegalBench** (https://hazyresearch.stanford.edu/legalbench/) is an ongoing open science effort lead by Stanford University to collaboratively curate tasks for evaluating legal reasoning in LLMs (Guha et al. 2024). All LegalBench tasks are in English and focused on common law.
 
-**ArabLegalEval** is a multitask benchmark dataset for assessing the Arabic legal knowledge of LLMs. Inspired by the MMLU and LegalBench datasets, ArabLegalEval consists of multiple tasks sourced from Saudi legal documents and synthesized questions.
+**ArabLegalEval** (https://github.com/Thiqah/ArabLegalEval) is a multitask benchmark dataset for assessing the Arabic legal knowledge of LLMs. Inspired by the MMLU and LegalBench datasets, ArabLegalEval consists of multiple tasks sourced from Saudi legal documents and synthesized questions.
 (Hijazi et al. 2024)
 
-**IL-TUR**: Benchmark for Indian Legal Text Understanding and Reasoning (2024) contains monolingual (English, Hindi) and multi-lingual (9 Indian languages) domain-specific tasks that address different aspects of the legal system from the point of view of understanding and reasoning over Indian legal documents.
+**IL-TUR**: Benchmark for Indian Legal Text Understanding and Reasoning (https://exploration-lab.github.io/IL-TUR/) contains monolingual (English, Hindi) and multi-lingual (9 Indian languages) domain-specific tasks that address different aspects of the legal system from the point of view of understanding and reasoning over Indian legal documents.
 (Joshi et. al. 2024)
 
 
