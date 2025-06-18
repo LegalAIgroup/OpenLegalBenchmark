@@ -16,7 +16,9 @@ The datasets produced will be published as open source. All the sw code produced
 
 (Colombo et al. 2024) Colombo, Pierre, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre FT Martins et al. "Saullm-7b: A pioneering large language model for law." arXiv preprint arXiv:2403.03883 (2024). https://arxiv.org/abs/2403.03883
 
-(Dahl et. al. 2024) Matthew Dahl, Varun Magesh, Mirac Suzgun & Daniel E. Ho, Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models, arXiv (2024)
+(Dahl et al. 2024) Matthew Dahl, Varun Magesh, Mirac Suzgun & Daniel E. Ho, Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models, arXiv (2024)
+
+(Fan et al. 2025) Fan, Y., Ni, J., Merane, J., Salimbeni, E., Tian, Y., Hermstrüwer, Y., ... & Niklaus, J. (2025). LEXam: Benchmarking Legal Reasoning on 340 Law Exams. arXiv preprint arXiv:2505.12864. https://arxiv.org/abs/2505.12864
 
 (Fei et al. 2023) Fei, Zhiwei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, and Jidong Ge. "Lawbench: Benchmarking legal knowledge of large language models." arXiv preprint arXiv:2309.16289 (2023). https://arxiv.org/abs/2309.16289
 
