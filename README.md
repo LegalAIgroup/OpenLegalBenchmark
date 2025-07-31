@@ -1,6 +1,6 @@
 # OpenLegalBenchmark
 
-A new OS multilingual dataset and benchmark for evaluating LLM-based legal systems within the EU legal domain.
+A new open-source multilingual dataset and benchmark for evaluating LLM-based legal systems within the EU legal domain.
 
 Aims of the OpenLegalBenchmark project:
 * to collect existing datasets and evaluation benchmarks for LLMs and LLM-based legal systems within the EU legal domain;
