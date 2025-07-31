@@ -1,14 +1,15 @@
 # OpenLegalBenchmark
 
-Multilingual datasets and tasks for evaluating Large Language Models (LLMs) in the EU legal domain.
+A new OS multilingual dataset and benchmark for evaluating LLM-based legal systems within the EU legal domain.
 
-The aims of the project are:
-* to collect and develop open source datasets and an evaluation benchmark for LLMs and LLM’s based legal systems in the EU legal domain, particularly about question-answering on EU laws and regulations, in Italian, French, Spanish, German, English languages;
+Aims of the OpenLegalBenchmark project:
+* to collect existing datasets and evaluation benchmarks for LLMs and LLM-based legal systems within the EU legal domain;
+* to develop a new open source dataset and an evaluation benchmark for LLM-based legal systems within the EU legal domain, particularly about question-answering on EU laws and regulations, in English, Italian, French, Spanish, German languages;
 * to evaluate existing LLMs and legal NLP systems on this benchmark and other benchmarks.
   
-The datasets produced will be published as open source. All the sw code produced will be published as open source. The repository will also contain automated scripts and instructions to test, maintain, add features and deploy the application. The license for the software and the datasets will be Apache-2.0 license.
+The dataset produced will be published as open source. All the sw code produced will be published as open source. The repository will also contain automated scripts and instructions to test, maintain, add features and deploy the application. The license for the software and the datasets will be Apache-2.0 license.
 
-# List of benchmarks
+# List of existing datasets and benchmarks
 
 **LEXam**: Benchmarking Legal Reasoning on 340 Law Exams (https://lexam-benchmark.github.io/)  
 (Fan et al. 2025)
